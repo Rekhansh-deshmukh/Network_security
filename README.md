@@ -1,5 +1,8 @@
 ### Network Security Projects For Phising Data
 
+<img width="1288" height="679" alt="image" src="https://github.com/user-attachments/assets/2481e365-1b19-4dcd-86fb-2bbc68d31fd1" />
+
+
 Setup github secrets:
 AWS_ACCESS_KEY_ID=<Enter Your Access Key>
 
